@@ -1,3 +1,11 @@
+
+# nphard001's version
+
+```shell
+sh -c "$(wget https://raw.githubusercontent.com/nphard001/oh-my-zsh/master/tools/install.sh -O -)"
+```
+
+
 <p align="center">
   <img src="https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png" alt="Oh My Zsh">
 </p>
